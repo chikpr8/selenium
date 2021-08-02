@@ -15,5 +15,6 @@ Then user clicks on new deal
 Then user enter deal details
 |title|assigned to|Company|products|contacts|amount|commission|stage|
 |new contact|praveen kumar|cognizant|assets|9642521109|50|20|Research|
+|new contact|rajesh|kumar|cognizant|assert|8328270878|50|20|Research|
 
 
